@@ -1,0 +1,3 @@
+Project pastry:
+
+A distributed hash table.
